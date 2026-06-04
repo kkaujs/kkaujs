@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FD428E&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!!+My+name+is+Kleiton+Santos+;I'm+20+years+old;I'm+from+Brazil,+BA;I+study+information+technology+at+IFBA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FD428E&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!!+My+name+is+Kleiton+Santos+;I'm+23+years+old;I'm+from+Brazil,+BA;;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -14,6 +14,7 @@
   <img align="center" alt="Kleiton-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Kleiton-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Kleiton-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Kleiton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
  ##
